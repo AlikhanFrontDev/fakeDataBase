@@ -2,32 +2,48 @@
     "profile": [
     {
         "id": 1,
-        "firstName": "Terry",
-        "lastName": "Medhurst",
-        "maidenName": "Smitham",
-        "age": 50,
-        "gender": "male",
-        "email": "atuny0@sohu.com",
-        "phone": "+63 791 675 8914",
+        "name": "Cambridge",
+        "addTime": "2022-12-25",
+        "limitTime": "2023-12-25",
+        "admin": "Medhurst",
+        "phone": "+998977777777",
+        "seo": "Og'abek",
+        "sttr": "123456789",
+        "seophone": "++998977777777",
         "username": "atuny0",
         "password": "9uQFF1Lh",
-        "birthDate": "2000-12-25",
+        "status": "faol",
         "image": "https://robohash.org/hicveldicta.png"
-        
     },
     {
         "id": 2,
-        "firstName": "Sheldon",
-        "lastName": "Quigley",
-        "maidenName": "Cole",
-        "age": 28,
-        "gender": "male",
-        "email": "hbingley1@plala.or.jp",
-        "phone": "+7 813 117 7139",
-        "username": "hbingley1",
-        "password": "CQutx25i8r",
-        "birthDate": "2003-08-02",
-        "image": "https://robohash.org/doloremquesintcorrupti.png"
+        "name": "Fast Education",
+        "addTime": "2022-12-25",
+        "limitTime": "2023-12-25",
+        "admin": "Medhurst",
+        "phone": "+998977777777",
+        "seo": "Og'abek",
+        "sttr": "123456789",
+        "seophone": "++998977777777",
+        "username": "atuny011",
+        "password": "9uQFF1Lh11",
+        "status": "nofaol",
+        "image": "https://robohash.org/hicveldicta.png"
+    },
+    {
+        "id": 3,
+        "name": "Study Bridge",
+        "addTime": "2022-12-25",
+        "limitTime": "2023-12-25",
+        "admin": "Medhurst",
+        "phone": "+998977777777",
+        "seo": "Og'abek",
+        "sttr": "123456789",
+        "seophone": "++998977777777",
+        "username": "atuny044",
+        "password": "9uQFF1Lh44",
+        "status": "faol",
+        "image": "https://robohash.org/hicveldicta.png"
     }
 ]
 

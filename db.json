@@ -1,4 +1,5 @@
-[
+{
+    "profile": [
     {
         "id": 1,
         "firstName": "Terry",
@@ -28,5 +29,6 @@
         "birthDate": "2003-08-02",
         "image": "https://robohash.org/doloremquesintcorrupti.png"
     }
-
 ]
+
+}
